@@ -1,0 +1,4 @@
+flet==0.84.0
+pykakasi==2.3.0
+SpeechRecognition==3.16.1
+PyAudio==0.2.14
